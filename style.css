@@ -47,7 +47,7 @@
   main .head {
     text-align: center;
     width: 45%;
-    margin: 2em auto;
+    margin: 0 auto 2em;
     
   }
   main .head h1{
@@ -64,7 +64,6 @@
   }
   main .head p, .cards .card p  {
     color: var(--Grayish-Blue);
-    font-size: 1.1rem;
   }
   .cards {
     width: 100%;
