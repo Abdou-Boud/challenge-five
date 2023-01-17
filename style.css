@@ -64,7 +64,7 @@
   }
   main .head p, .cards .card p  {
     color: var(--Grayish-Blue);
-    font-size: 0.8rem;
+    font-size: 1.1rem;
   }
   .cards {
     width: 100%;
@@ -90,8 +90,8 @@
   }
   .card img {
     position: absolute;
-    right: 1em;
-    bottom: 1em;
+    right: 2em;
+    bottom: 2em;
   }
    .left-card {
     border-top: 4px solid var(--Cyan);
