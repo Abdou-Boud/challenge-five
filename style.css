@@ -51,13 +51,13 @@
     
   }
   main .head h1{
-    font-size: 1.2rem;
+    font-size: 2.2rem;
     font-weight: normal;
   }
   main .head h2 {
     font-weight: bold;
     padding: 0 0 .25rem ;
-    font-size: 1.25rem;
+    font-size: 2.25rem;
   }
   .head h2, .head h1, .card h3 {
     color: var(--Very-Dark-Blue);
