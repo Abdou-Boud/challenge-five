@@ -83,6 +83,10 @@
     box-shadow: 5px 5px 10px rgb(0 0 0 / 10%);
 
   }
+  .cards .middle-cards {
+    display: flex;
+    flex-direction: column;
+  }
   .cards .card p {
     margin-top: .5em;
     font-size: 0.8rem;
